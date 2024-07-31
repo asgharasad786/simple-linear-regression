@@ -1,2 +1,8 @@
-# simple-linear-regression
-I'm excited to share my recent analysis of a placement dataset where I applied simple linear regression to understand the relationship between students' salaries and their offered packages. This project provided valuable insights into how well these two variables correlate, offering a clear perspective on trends and patterns in placement outcomes.
+🚀 Exploring Career Growth with Simple Linear Regression! 📊
+
+I recently analyzed a dataset on years of experience and salary using simple linear regression. The goal was to uncover how experience impacts earnings.
+
+🔍 Key Insight:
+
+Finding: Clear positive correlation between years of experience and salary.
+This analysis provides valuable insights for career planning and salary negotiations.
